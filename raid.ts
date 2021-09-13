@@ -1,0 +1,1 @@
+let gato : number =2;
